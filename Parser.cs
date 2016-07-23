@@ -92,7 +92,9 @@ namespace Manticore
 
 		public virtual Lexer preproccess (Lexer lex)
 		{
-			
+			Lexer lexer = new Lexer ();
+
+			return lexer;
 		}
 	}
 }
