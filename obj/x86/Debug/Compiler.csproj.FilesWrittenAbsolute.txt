@@ -1,5 +1,0 @@
-/home/rain/Desktop/Compiler/Compiler/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/rain/Desktop/Compiler/Compiler/bin/Debug/Compiler.exe.mdb
-/home/rain/Desktop/Compiler/Compiler/bin/Debug/Compiler.exe
-/home/rain/Desktop/Compiler/Compiler/obj/x86/Debug/Compiler.exe
-/home/rain/Desktop/Compiler/Compiler/obj/x86/Debug/Compiler.exe.mdb
