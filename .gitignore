@@ -1,0 +1,9 @@
+# osx specific
+.DS_Store
+*.lock
+*.swp
+*.lock
+
+#build folders
+bin/
+obj/
